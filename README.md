@@ -1,4 +1,6 @@
-# Demo
+# Objective:
+Creating a Jupyter Notebook
 
-Some Description!
-test repo
+Inserting code and markdown cells
+
+Sharing your notebook through GitHub
